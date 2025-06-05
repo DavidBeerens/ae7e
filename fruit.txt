@@ -5,4 +5,7 @@ bosbes
 kiwi
 bosbes
 peer 
+<<<<<<< HEAD
+>>>>>>> bbb
+=======
 >>>>>>> bbb
