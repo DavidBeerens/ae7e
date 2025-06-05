@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 kiwi 
 bosbes 
+=======
+kiwi
+bosbes
+peer 
+>>>>>>> bbb
